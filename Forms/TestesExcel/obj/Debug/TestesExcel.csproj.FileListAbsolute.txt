@@ -1,0 +1,9 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\bin\Debug\TestesExcel.exe.config
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\bin\Debug\TestesExcel.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\bin\Debug\TestesExcel.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\obj\Debug\TestesExcel.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\obj\Debug\TestesExcel.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\obj\Debug\TestesExcel.csproj.ResolveComReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\obj\Debug\TestesExcel.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\obj\Debug\TestesExcel.exe
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\TestesExcel\obj\Debug\TestesExcel.pdb

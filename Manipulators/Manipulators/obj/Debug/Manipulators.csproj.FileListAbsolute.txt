@@ -1,0 +1,6 @@
+F:\ws-Visual-Code\Manipulators\Manipulators\bin\Debug\Manipulators.dll
+F:\ws-Visual-Code\Manipulators\Manipulators\bin\Debug\Manipulators.pdb
+F:\ws-Visual-Code\Manipulators\Manipulators\obj\Debug\Manipulators.csproj.AssemblyReference.cache
+F:\ws-Visual-Code\Manipulators\Manipulators\obj\Debug\Manipulators.csproj.CoreCompileInputs.cache
+F:\ws-Visual-Code\Manipulators\Manipulators\obj\Debug\Manipulators.dll
+F:\ws-Visual-Code\Manipulators\Manipulators\obj\Debug\Manipulators.pdb

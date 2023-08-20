@@ -1,0 +1,24 @@
+F:\ws-Visual-Code\Dictionaries\Dictionaries\bin\Debug\Dictionaries.dll
+F:\ws-Visual-Code\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+F:\ws-Visual-Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+F:\ws-Visual-Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+F:\ws-Visual-Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.dll
+F:\ws-Visual-Code\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\bin\Debug\Dictionaries.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\Dictionaries\Dictionaries\bin\Debug\Dictionaries.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\Dictionaries\Dictionaries\obj\Debug\Dictionaries.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\bin\Debug\Dictionaries.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb

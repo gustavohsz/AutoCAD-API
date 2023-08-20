@@ -1,0 +1,87 @@
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\AutoCADBlock\bin\Debug\AutoCADBlock.dll
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\AutoCADBlock\bin\Debug\AutoCADBlock.pdb
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\AutoCADBlock\obj\Debug\AutoCADBlock.dll
+C:\Users\gusta\OneDrive - Instituto Federal de Santa Catarina\9º Fase\C sharp - arquivos\AutoCAD\AutoCADBlock\obj\Debug\AutoCADBlock.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AutoCADBlock.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AutoCADBlock.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\accoremgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\acdbmgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\acmgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AdUiPalettes.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcDx.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcDxPublishUi.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AdWindows.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcMr.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcWindows.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AdUIMgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcTcMgd.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcCui.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcMNUParser.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CopyComplete
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AutoCADBlock.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AutoCADBlock.pdb
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\accoremgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\acdbmgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\acmgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AdUiPalettes.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcDx.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcDxPublishUi.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AdWindows.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcMr.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcWindows.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AdUIMgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcTcMgd.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcCui.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\AcMNUParser.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CopyComplete
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.dll
+C:\Users\gusta\Documents\GitHub\Plugin-AutoCAD-ExFil\AutoCADBlock\obj\Debug\AutoCADBlock.pdb
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AutoCADBlock.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AutoCADBlock.pdb
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\accoremgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\acdbmgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\acmgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AdUiPalettes.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcDx.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcDxPublishUi.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AdWindows.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcMr.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcWindows.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AdUIMgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcTcMgd.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcCui.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\AcMNUParser.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\en-US\acdbmgd.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\en-US\AcDx.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\en-US\AcDxPublishUi.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\en-US\AcMr.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\obj\Debug\AutoCADBlock.csproj.CopyComplete
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\obj\Debug\AutoCADBlock.dll
+C:\Users\gusta\Downloads\Plugin-AutoCAD-ExFil-main (1)\Plugin-AutoCAD-ExFil-main\AutoCADBlock\obj\Debug\AutoCADBlock.pdb

@@ -1,0 +1,8 @@
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\bin\Debug\ControlDemo.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\bin\Debug\ControlDemo.pdb
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\obj\Debug\ControlDemo.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\obj\Debug\ControlDemo.MainForm.resources
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\obj\Debug\ControlDemo.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\obj\Debug\ControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\obj\Debug\ControlDemo.dll
+C:\Users\gusta\OneDrive\Documentos\GitHub\Plugin-AutoCAD-ExFil\Forms\ControlDemo\obj\Debug\ControlDemo.pdb

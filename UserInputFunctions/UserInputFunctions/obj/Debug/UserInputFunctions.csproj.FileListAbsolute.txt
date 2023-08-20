@@ -1,0 +1,6 @@
+F:\ws-Visual-Code\UserInputFunctions\UserInputFunctions\bin\Debug\UserInputFunctions.dll
+F:\ws-Visual-Code\UserInputFunctions\UserInputFunctions\bin\Debug\UserInputFunctions.pdb
+F:\ws-Visual-Code\UserInputFunctions\UserInputFunctions\obj\Debug\UserInputFunctions.csproj.AssemblyReference.cache
+F:\ws-Visual-Code\UserInputFunctions\UserInputFunctions\obj\Debug\UserInputFunctions.csproj.CoreCompileInputs.cache
+F:\ws-Visual-Code\UserInputFunctions\UserInputFunctions\obj\Debug\UserInputFunctions.dll
+F:\ws-Visual-Code\UserInputFunctions\UserInputFunctions\obj\Debug\UserInputFunctions.pdb
